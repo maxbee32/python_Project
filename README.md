@@ -1,1 +1,1 @@
-These are python project from a beginner level to a pro level. 
+These are python projects from a beginner's level to a pro level. 
